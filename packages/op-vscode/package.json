@@ -124,7 +124,7 @@
     "@types/node": "^20",
     "@types/bun": "latest",
     "typescript": "^5",
-    "esbuild": "^0.21",
+    "esbuild": "^0.28",
     "jsonc-parser": "^3",
     "ovsx": "1.1.1",
     "oxlint": "latest"
